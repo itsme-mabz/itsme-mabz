@@ -2,9 +2,8 @@
 - 👀 I’m interested in Python, Django, Selenium, and APIs.
 - 🌱 I’m currently learning Cyber Security
 - 💞️ I’m looking to collaborate on Full-Stack programming, Web Scraping, Automation, and API integrations.
-- 📫 How to reach me: ma@sixsense.works
+- 📫 How to reach me: itsmemabz@gmail.com
 - 😄 Pronouns: he/him
-- ⚡ Fun fact: As a programmer, I do not drink much coffee.
 
 <!---
 itsme-mabz/itsme-mabz is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
